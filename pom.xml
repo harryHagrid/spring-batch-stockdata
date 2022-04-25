@@ -9,8 +9,8 @@
 		<version>2.6.6</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.abhishek</groupId>
-	<artifactId>springboot-21april22</artifactId>
+	<groupId>com.harryhagrid</groupId>
+	<artifactId>springboot-stock-data</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>batch-processing</name>
 	<description>Demo project for Spring batch</description>
